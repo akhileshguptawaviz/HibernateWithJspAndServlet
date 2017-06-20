@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+*{ margin:0; padding:0;}
+.fl{ float:left;}
+.fr{ float:right;}
+.new{ float:left; margin-left:1%;}
+.clr{ clear:both;}
+.row{ margin-top:10px;}
+/***************************************************/
+.f_box{ width:30%; margin-top:40px; height:80px; background:#219EB8; position:relative; border-radius:0% 0% 10% 10%;}
+.f_box1{ width:90%; height:300px; background:#DF6221; position:absolute; left:5%; top:25px; border-radius:0% 10% 0% 10%;}
+.txt{ height:30px; width:80%; margin-top:10px; font-size:18px; text-align:center;}
+.btn{ height:30px; width:50%; margin-top:10px; background:#32D86E; font-size:18px;}
